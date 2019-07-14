@@ -1,4 +1,4 @@
-# Little-Terminal-Heroes-Tournament-Simulation
+# Little-Heroes-Tournament-Simulation
 Just a Simulation in two versions: Terminal and wrapped in GUI, both written in pure JAVA. 
 GUI though still needs a lot of work, aspecially when it comes to multi-threading to make it enjoyable a bit more. Nevertheless You might be interested to take a look at the code, so I am publishing it as well. I will most likely develop GUI version in the future and republish new versions.
 
